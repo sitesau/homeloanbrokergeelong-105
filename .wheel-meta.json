@@ -1,0 +1,22 @@
+{
+  "wheel_id": 542,
+  "structure": "umbrella",
+  "slug": "homeloanbrokergeelong-105",
+  "project": "mortgage-broker-geelong-beginner-guide-60d72c329dfe4beb439ef0e6",
+  "parent_t1_ref": "homeloanbrokergeelong-152",
+  "node_role": "feeder",
+  "money_target": "homeloanbrokergeelong.com.au",
+  "primary_kw": "mortgage broker geelong beginner guide",
+  "intended_url": "https://sitesau.github.io/homeloanbrokergeelong-105/",
+  "tier": "T2",
+  "writeback_nonce": "96e6ac489bdae987",
+  "links": [
+    {
+      "target_url": "http://mortgage-broker-geelong-pros-and-cons-5365cdb8ff2733faff609e149.s3-website-ap-southeast-2.amazonaws.com/index.html",
+      "anchor": "the mortgage broker geelong pros and cons overview",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "partial"
+    }
+  ]
+}
